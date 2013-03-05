@@ -11,7 +11,13 @@ answer some questions?
 * What will you tell them?
 * What will you discover about them?
 
+## Preps
 
+Each Player assumes the role of a Character. You are free to describe this character
+as you wish : precisely or vaguely, with or without describing your appearance,
+your psychology, your profession, your family situation... Nothing is mandatory.
+It might be as interesting to describe as less as possible, which would lead
+you to improvise during the game. Your Character **may not have a name!**
 
 ## License
 

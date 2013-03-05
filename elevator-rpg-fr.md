@@ -10,8 +10,16 @@ Dans ce jeu, vous êtes coincés dans un ascenseur en panne. Pourquoi ne pas ré
 * Que leur direz-vous ?
 * Que découvrirez-vous à leur sujet ?
 
+## Préparation
 
-## License
+Chaque Joueur incarne un Personnage. Chacun est libre de le décrire comme il le
+veut : avec précision ou vaguement, une description physique ou psychologique,
+un passé, une profession, une situation familiale... Rien n'est imposé.
+D'ailleurs, il peut presque être plus intéressant de décrire le moins possible
+pour partir en improvisation durant la partie. Peut-être même que votre
+Personnage **n'a pas de nom** !
+
+## Licence
 
 Ce jeu est publié sous contrat Creative Commons [CC-BY-SA][CC-BY-SA License].
 
