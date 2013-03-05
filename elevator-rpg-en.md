@@ -30,6 +30,24 @@ You must think about a Secret. It can be anything: something you can't tell
 anyone, a physical disability, a secret identity, a crime, a secret love, a plan
 you can't tell to anyone, etc.
 
+## Game start
+
+### With a Game Master
+
+The Gamemaster leads the Characters towards the elevator. This elevator can be
+situated anywhere: "in a big city", "in San Francisco", "in *this* special
+building". Wherever it is, the Characters will all end in this broken elevator,
+stuck between two levels.
+
+#### A few questions
+
+* Is the light still on?
+* Is the alarm system still working?
+* How long will the Characters wait until the rescue team will save them?
+
+### GM-Less variant
+
+TODO
 ## License
 
 This game is published under the terms of the [CC-BY-SA License][CC-BY-SA License].
