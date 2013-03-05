@@ -49,6 +49,8 @@ coincés dans l'ascenseur, entre deux étages.
 
 TODO
 
+----
+
 ## Licence
 
 Ce jeu est publié sous contrat Creative Commons [CC-BY-SA][CC-BY-SA License].

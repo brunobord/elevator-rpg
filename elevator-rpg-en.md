@@ -49,6 +49,8 @@ stuck between two levels.
 
 TODO
 
+----
+
 ## License
 
 This game is published under the terms of the [CC-BY-SA License][CC-BY-SA License].
