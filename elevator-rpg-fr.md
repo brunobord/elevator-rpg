@@ -19,5 +19,5 @@ Tout ce qui a trait à ce jeu [est disponible sur Github][Elevator RPG Github].
 Merci de m'aider à l'améliorer en me signalant les erreurs, en suggérant des
 modifications, en ouvrant des discussions.
 
-[CC-BY-SA License]: http://creativecommons.org/licenses/by-sa/2.5/
+[CC-BY-SA License]: http://creativecommons.org/licenses/by-sa/3.0/fr/
 [Elevator RPG Github]: https://github.com/brunobord/elevator-rpg/
