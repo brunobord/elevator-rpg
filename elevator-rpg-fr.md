@@ -20,6 +20,15 @@ pour partir en improvisation durant la partie.
 
 Peut-être même que votre Personnage **n'a pas de nom** !
 
+Vous pouvez inscrire tous ces petits détails sur le recto d'une  feuille de
+papier. Sur le verso, vous devrez écrire "notre petit secret"...
+
+### Un Trait obligatoire
+
+Vous devez imaginer votre Secret. Ça peut être n'importe quoi : quelque chose
+d'inavouable, une particularité physique, une identité secrète, un crime, un
+amour secret, un projet dont personne ne doit rien savoir, etc.
+
 ## Licence
 
 Ce jeu est publié sous contrat Creative Commons [CC-BY-SA][CC-BY-SA License].

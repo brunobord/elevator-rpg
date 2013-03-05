@@ -21,6 +21,15 @@ would lead you to improvise during the game.
 
 Your Character **may have no name!**
 
+Take note of these details on one side of a piece of paper. On the other side,
+you'll write down our "little secret".
+
+### Mandatory Trait
+
+You must think about a Secret. It can be anything: something you can't tell
+anyone, a physical disability, a secret identity, a crime, a secret love, a plan
+you can't tell to anyone, etc.
+
 ## License
 
 This game is published under the terms of the [CC-BY-SA License][CC-BY-SA License].
