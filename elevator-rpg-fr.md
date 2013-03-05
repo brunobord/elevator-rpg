@@ -16,8 +16,9 @@ Chaque Joueur incarne un Personnage. Chacun est libre de le décrire comme il le
 veut : avec précision ou vaguement, une description physique ou psychologique,
 un passé, une profession, une situation familiale... Rien n'est imposé.
 D'ailleurs, il peut presque être plus intéressant de décrire le moins possible
-pour partir en improvisation durant la partie. Peut-être même que votre
-Personnage **n'a pas de nom** !
+pour partir en improvisation durant la partie.
+
+Peut-être même que votre Personnage **n'a pas de nom** !
 
 ## Licence
 
