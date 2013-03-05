@@ -48,6 +48,7 @@ stuck between two levels.
 ### GM-Less variant
 
 TODO
+
 ## License
 
 This game is published under the terms of the [CC-BY-SA License][CC-BY-SA License].
