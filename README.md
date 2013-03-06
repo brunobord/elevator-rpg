@@ -7,6 +7,8 @@
 * [French version](elevator-rpg-fr.md)
 * [English version](elevator-rpg-en.md)
 
+**Current status: NOT READY YET, WORK IN PROGRESS** (please bear with me)
+
 ## License
 
 This game is published under the terms of the [CC-BY-SA License][CC-BY-SA License].
