@@ -45,6 +45,17 @@ stuck between two levels.
 * Is the alarm system still working?
 * How long will the Characters wait until the rescue team will save them?
 
+Of course, these questions are just indications, there are many others that can
+emerge during the game, as the situation evolves and new events occur.
+
+#### Think
+
+The Game Master can think about "how the game ends". The rescue team can go and
+reach the Characters at some point, if you want.
+
+But you may stop the game as soon as one of the Character has revealed his/her
+secret to the others, or if one of the Characters has discovered that secret.
+
 ### GM-Less variant
 
 TODO

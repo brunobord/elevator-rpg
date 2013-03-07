@@ -45,6 +45,17 @@ coincés dans l'ascenseur, entre deux étages.
 * Est-ce que le système d'alarme fonctionne ?
 * Combien de temps attendre avant que les secours arrivent ?
 
+Ces questions ne sont pas exhaustives, il reste une foule de points à éclaircir
+en fonction des réactions des joueurs, et des événements qui en découleront.
+
+#### Réfléchir
+
+Le Maître de jeu peut réfléchir à l'issue finale. Au bout d'un moment, on peut
+imaginer que les secours vont arriver et sortir les Personnages de l'ascenseur.
+
+Ou encore, la partie peut s'arrêter dès lors que l'un des personnages a révélé
+son Secret, ou qu'un autre Personnage a réussi à le mettre à jour.
+
 ### Variante: sans Maître de Jeu
 
 TODO
