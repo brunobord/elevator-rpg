@@ -48,7 +48,7 @@ stuck between two levels.
 Of course, these questions are just indications, there are many others that can
 emerge during the game, as the situation evolves and new events occur.
 
-#### Think
+#### Think about the end
 
 The Game Master can think about "how the game ends". The rescue team can go and
 reach the Characters at some point, if you want.
@@ -58,7 +58,11 @@ secret to the others, or if one of the Characters has discovered that secret.
 
 ### GM-Less variant
 
-TODO
+The Players can agree on a duration (e.g. we'll play for 1 or 2 hours), and will
+have to chat with each other, playing their roles. When the time is over, the
+rescue team is reaching the Characters and the game is over. Then each Character
+is writing down his/her guess of what is the Secret of the other Players. Once
+it's done, the Players check who's got the best answers.
 
 ----
 

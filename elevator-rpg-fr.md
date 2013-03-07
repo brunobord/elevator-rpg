@@ -48,7 +48,7 @@ coincés dans l'ascenseur, entre deux étages.
 Ces questions ne sont pas exhaustives, il reste une foule de points à éclaircir
 en fonction des réactions des joueurs, et des événements qui en découleront.
 
-#### Réfléchir
+#### Réfléchir à la fin
 
 Le Maître de jeu peut réfléchir à l'issue finale. Au bout d'un moment, on peut
 imaginer que les secours vont arriver et sortir les Personnages de l'ascenseur.
@@ -58,7 +58,11 @@ son Secret, ou qu'un autre Personnage a réussi à le mettre à jour.
 
 ### Variante: sans Maître de Jeu
 
-TODO
+Les Joueurs doivent se mettre d'accord sur la durée maximale du jeu (une ou deux
+heures, par exemple). Puis les Joueurs débutent leur conversation, incarnant
+leur Personnage. À la fin de la durée choisie, les secours arrivent et la partie
+s'arrête. Puis chaque Joueur écrit ce qu'il croit être le Secret des autres et
+on vérifie celui qui a les réponses les plus justes.
 
 ----
 
