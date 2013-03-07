@@ -1,6 +1,6 @@
 # Elevator RPG - Version française
 
-> Vous êtes coincés dans un ascenceur en panne, avec de parfaits étrangers. Que faites-vous ?
+> Vous êtes coincés dans un ascenseur en panne, avec de parfaits étrangers. Que faites-vous ?
 
 Dans ce jeu, vous êtes coincés dans un ascenseur en panne. C'est un huis-clos.
 Le moment idéal pour répondre à quelques questions ?
