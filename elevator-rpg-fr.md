@@ -56,6 +56,18 @@ imaginer que les secours vont arriver et sortir les Personnages de l'ascenseur.
 Ou encore, la partie peut s'arrêter dès lors que l'un des personnages a révélé
 son Secret, ou qu'un autre Personnage a réussi à le mettre à jour.
 
+#### Le Dialogue
+
+L'ensemble du jeu se fait par le Dialogue. Entre les Joueurs, entre les Joueurs
+et le Maître du jeu. Les Joueurs sont libres de poser des questions, et de
+répondre comme ils l'entendent. C'est au Maître de Jeu d'orchestrer savamment
+ce Dialogue, si besoin en relançant les Joueurs sur un point particulier, en
+les provoquant, ou en essayant de semer une sorte de zizanie entre eux. Le jeu
+est fait d'ambiance ; c'est un **huis-clos**, dans lequel les Personnages sont
+plongés. C'est une situation stressante, et il est important de maintenir le
+suspense et ne pas hésiter à presser un peu les Joueurs pour qu'ils sortent
+de leurs gonds.
+
 ### Variante: sans Maître de Jeu
 
 Les Joueurs doivent se mettre d'accord sur la durée maximale du jeu (une ou deux

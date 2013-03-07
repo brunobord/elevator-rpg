@@ -56,6 +56,16 @@ reach the Characters at some point, if you want.
 But you may stop the game as soon as one of the Character has revealed his/her
 secret to the others, or if one of the Characters has discovered that secret.
 
+#### The Dialog
+
+The whole game is a Dialog. Everything is just a matter of discussion, between
+Players, or between the Gamemaster and the Players. The Players are free to ask
+anything, and answer to questions the way they want to. It's the GM's job to
+manage this Dialog, by arguing with the Players, insist on some aspect of their
+answers, provocate them, and maybe try to initiate discors between Players. This
+game is inside an enclosed place, it's a stressing situation, and the GM should
+maintain this pressure as best as he could, even if one of them is flipping out.
+
 ### GM-Less variant
 
 The Players can agree on a duration (e.g. we'll play for 1 or 2 hours), and will
