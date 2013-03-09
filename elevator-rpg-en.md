@@ -2,8 +2,11 @@
 
 > You are stuck in a broken elevator, with some strangers. What do you do?
 
-This game is about being stuck in an elevator, with strangers. You'll have to
-answer some questions?
+This game is about being stuck in an elevator, with strangers. Since this game
+takes place in an enclosed environment, one can say that "the setting is the
+game."
+
+Don't you think it's the perfect time and place to answer a few questions?
 
 * Why did you get into this elevator?
 * Will you try to escape it?
