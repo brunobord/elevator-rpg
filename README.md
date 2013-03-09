@@ -4,10 +4,15 @@
 
 ## Versions
 
-* [French version](elevator-rpg-fr.md)
+* [Version Française](elevator-rpg-fr.md)
 * [English version](elevator-rpg-en.md)
 
 **Current status: v0.1 - THIS IS BETA. PLEASE TRY IT OUT AND FEED ME BACK**
+
+If you prefer PDF:
+
+* [Version Française en PDF](http://jdr.jehaisleprintemps.net/static/downloads/elevator-fr.pdf)
+* [English PDF Version](http://jdr.jehaisleprintemps.net/static/downloads/elevator-en.pdf)
 
 ## License
 
