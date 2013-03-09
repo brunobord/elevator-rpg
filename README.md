@@ -7,7 +7,7 @@
 * [French version](elevator-rpg-fr.md)
 * [English version](elevator-rpg-en.md)
 
-**Current status: NOT READY YET, WORK IN PROGRESS** (please bear with me)
+**Current status: v0.1 - THIS IS BETA. PLEASE TRY IT OUT AND FEED ME BACK**
 
 ## License
 

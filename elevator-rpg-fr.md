@@ -1,5 +1,7 @@
 # Elevator RPG - Version française
 
+v.0.1
+
 > Vous êtes coincés dans un ascenseur en panne, avec de parfaits étrangers. Que
 > faites-vous ?
 

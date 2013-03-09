@@ -1,5 +1,7 @@
 # Elevator RPG
 
+v.0.1
+
 > You are stuck in a broken elevator, with some strangers. What do you do?
 
 This game is about being stuck in an elevator, with strangers. Since this game
